@@ -14,15 +14,15 @@ You can click a challenge below and see challenge description or click solution 
 | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)                          	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Maximize%20It!%20-%20Python%203/source.py)     	| Python 3       	|
 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)                            	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Piling%20Up!%20-%20Python%203/source.py)     	| Python 3       	|
 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)                     	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Queen's%20Attack%20II%20-%20Python%203/source.py)     	| Python 3       	|
-| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)                         	| source.py     	| Python 3       	|
-| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)                     	| source.py     	| Python 3       	|
-| [Waiter](https://www.hackerrank.com/challenges/waiter/problem)                                	| source.py     	| Python 3       	|
-| [Word Order](https://www.hackerrank.com/challenges/word-order/problem)                            	| source.py     	| PyPy3          	|
-| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)              	| Solution.java 	| Java 8         	|
-| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem)                             	| source.cpp    	| C++14          	|
-| [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)         	| source.cpp    	| C++            	|
-| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)                	| source.cpp    	| C++            	|
-| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem)                          	| source.cpp    	| C++            	|
+| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)                         	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Sparse%20Arrays%20-%20Python%203/source.py)     	| Python 3       	|
+| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)                     	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Swap%20Nodes%20%5BAlgo%5D%20-%20Python%203/source.py)     	| Python 3       	|
+| [Waiter](https://www.hackerrank.com/challenges/waiter/problem)                                	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Waiter%20-%20Python%203/source.py)     	| Python 3       	|
+| [Word Order](https://www.hackerrank.com/challenges/word-order/problem)                            	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Word%20Order%20-%20PyPy3/source.py)     	| PyPy3          	|
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)              	| [Solution.java](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Climbing%20the%20Leaderboard%20-%20Java%208/Solution.java) 	| Java 8         	|
+| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem)                             	| [source.cpp](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Deque-STL%20-%20C%2B%2B14/source.cpp)    	| C++14          	|
+| [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)         	| [source.cpp](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Accessing%20Inherited%20Functions%20-%20C%2B%2B/source.cpp)    	| C++            	|
+| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)                	| [source.cpp](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Forming%20a%20Magic%20Square%20-%20C%2B%2B/source.cpp)    	| C++            	|
+| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem)                          	| [source.cpp](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Magic%20Spells%20-%20C%2B%2B/source.cpp)    	| C++            	|
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)                  	| source.cpp    	| C++            	|
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem)                     	| source.cpp    	| C++            	|
 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)  	| source.sql    	| MySQL          	|
