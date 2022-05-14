@@ -4,16 +4,16 @@ You can click a challenge below and see challenge description or click solution 
 
 | **Challenge**                         	| **Solution**  	| **Enviroment** 	|
 |---------------------------------------	|---------------	|----------------	|
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                    	| source.py     	| Python 3       	|
-| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)                     	| source.py     	| Python 3       	|
-| [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) 	| source.py     	| Python 3       	|
-| [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)                          	| source.py     	| Python 3       	|
-| [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                       	| source.py     	| Python 3       	|
-| [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)         	| source.py     	| Python 3       	|
-| [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)               	| source.py     	| Python 3       	|
-| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)                          	| source.py     	| Python 3       	|
-| [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)                            	| source.py     	| Python 3       	|
-| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)                     	| source.py     	| Python 3       	|
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                    	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Array%20Manipulation%20-%20Python%203/source.py)     	| Python 3       	|
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)                     	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Balanced%20Brackets%20-%20Python%203/source.py)     	| Python 3       	|
+| [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) 	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Classes%20Dealing%20with%20Complex%20Numbers%20-%20Python%203/source.py)     	| Python 3       	|
+| [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)                          	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Company%20Logo%20-%20Python%203/source.py)     	| Python 3       	|
+| [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                       	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Cycle%20Detection%20-%20Python%203/source.py)     	| Python 3       	|
+| [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)         	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Is%20This%20a%20Binary%20Search%20Tree%20-%20Python%203/source.py)     	| Python 3       	|
+| [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)               	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Iterables%20and%20Iterators%20-%20Python%203/source.py)     	| Python 3       	|
+| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)                          	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Maximize%20It!%20-%20Python%203/source.py)     	| Python 3       	|
+| [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)                            	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Piling%20Up!%20-%20Python%203/source.py)     	| Python 3       	|
+| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)                     	| [source.py](https://github.com/HalilUzer/HackerRank_Solutions/blob/main/Queen's%20Attack%20II%20-%20Python%203/source.py)     	| Python 3       	|
 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)                         	| source.py     	| Python 3       	|
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)                     	| source.py     	| Python 3       	|
 | [Waiter](https://www.hackerrank.com/challenges/waiter/problem)                                	| source.py     	| Python 3       	|
