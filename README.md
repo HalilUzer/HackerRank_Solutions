@@ -4,14 +4,14 @@ You can click a challenge below and see challenge description or click solution 
 
 | **Challenge**                         	| **Solution**  	| **Enviroment** 	|
 |---------------------------------------	|---------------	|----------------	|
-| Array Manipulation                    	| source.py     	| Python 3       	|
-| Balanced Brackets                     	| source.py     	| Python 3       	|
-| Classes: Dealing with Complex Numbers 	| source.py     	| Python 3       	|
-| Company Logo                          	| source.py     	| Python 3       	|
-| Cycle Detection                       	| source.py     	| Python 3       	|
-| Is This a Binary Search Tree?         	| source.py     	| Python 3       	|
-| Iterables and Iterators               	| source.py     	| Python 3       	|
-| Maximize It!                          	| source.py     	| Python 3       	|
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                    	| source.py     	| Python 3       	|
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)                     	| source.py     	| Python 3       	|
+| [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) 	| source.py     	| Python 3       	|
+| [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)                          	| source.py     	| Python 3       	|
+| [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                       	| source.py     	| Python 3       	|
+| [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)         	| source.py     	| Python 3       	|
+| [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)               	| source.py     	| Python 3       	|
+| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)                          	| source.py     	| Python 3       	|
 | Piling Up!                            	| source.py     	| Python 3       	|
 | Queen's Attack II                     	| source.py     	| Python 3       	|
 | Sparse Arrays                         	| source.py     	| Python 3       	|
