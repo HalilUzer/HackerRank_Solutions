@@ -4,8 +4,8 @@ You can click a challenge below and see challenge description or click solution 
 
 | **Challenge**                         	| **Solution**  	| **Enviroment** 	|
 |---------------------------------------	|---------------	|----------------	|
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                    	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Array%20Manipulation%20-%20Python%203/source.py)     	| Python 3       	|
-| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)                     	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Balanced%20Brackets%20-%20Python%203/source.py)     	| Python 3       	|
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                    	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Array%20Manipulation%20-%20Python%203/source.py)  | Python 3 |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)                     	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Balanced%20Brackets%20-%20Python%203/source.py) |Python 3 |
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) 	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Classes%20Dealing%20with%20Complex%20Numbers%20-%20Python%203/source.py)     	| Python 3       	|
 | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)                          	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Company%20Logo%20-%20Python%203/source.py)     	| Python 3       	|
 | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                       	| [source.py](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Cycle%20Detection%20-%20Python%203/source.py)     	| Python 3       	|
@@ -41,3 +41,4 @@ You can click a challenge below and see challenge description or click solution 
 |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [Solution.java](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Circular%20Array%20Rotation%20-%20Java/Solution.java) | Java                                                       |
 |[Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/submissions/code/367519682)| [Solution.java](https://github.com/HalilUzer/hackerrank-solutions/blob/main/Day%20Of%20The%20Programmer%20-%20Java/Solution.java) | Java                                               |
 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [Solution.cs](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | C# |
+|[Organizing Containers of Balls]|(https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | Java |
